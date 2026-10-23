@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Luke 👋
 
-<!--
-**lukelipinski/lukelipinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year **BSc Accounting and Finance** student at **Durham University**, interested in investment banking, sales and trading, and quantitative trading.
 
-Here are some ideas to get you started:
+## Projects
+- **[Earnings Momentum Backtester](https://github.com/lukelipinski/earnings-momentum-backtester)**: Python test of post-earnings momentum rules on ~4,000 US earnings events, with significance tests, robustness checks and honest limitations
+- **[Crocs Equity Pitch](https://github.com/lukelipinski/crocs-equity-pitch)**: Excel comparable-company valuation and a 2-page Buy recommendation ($137 target)
+- **[Business Records Pipeline](https://github.com/lukelipinski/business-records-pipeline)**: Python and Power Query rebuild and reconciliation of a year of business records (documentation only)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python (pandas, NumPy, matplotlib) · Excel (Power Query, Tables, XLOOKUP, PivotTables) · comparable-company valuation · hypothesis testing · reconciliation
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/lukelipinski)
